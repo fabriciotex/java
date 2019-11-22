@@ -1,0 +1,3 @@
+The week temperature average is 63.86°F
+
+Data processed by WeekTempAvg
